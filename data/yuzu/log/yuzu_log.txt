@@ -1,0 +1,78 @@
+[   0.093143] Input <Info> input_common/drivers/udp_client.cpp:UDPClient:139: Udp Initialization started
+[   0.093782] Input <Info> input_common/drivers/udp_client.cpp:StartCommunication:331: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.217767] Frontend <Info> yuzu/main.cpp:GMainWindow:347: yuzu Version: yuzu 1235
+[   0.217771] Frontend <Info> yuzu/main.cpp:GMainWindow:363: Host CPU: Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz | AVX2 | FMA
+[   0.217840] Frontend <Info> yuzu/main.cpp:GMainWindow:365: Host CPU Cores: 4
+[   0.217842] Frontend <Info> yuzu/main.cpp:GMainWindow:368: Host CPU Threads: 8
+[   0.218585] Frontend <Info> yuzu/main.cpp:GMainWindow:369: Host OS: KDE Flatpak runtime
+[   0.218597] Frontend <Info> yuzu/main.cpp:GMainWindow:370: Host RAM: 7.65 GiB
+[   0.218598] Frontend <Info> yuzu/main.cpp:GMainWindow:372: Host Swap: 4.00 GiB
+[   0.292597] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.293727] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.307055] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.314972] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.315601] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.331616] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[   0.412464] Frontend <Warning> yuzu/main.cpp:SetupPrepareForSleep:1398: QDBusConnection system bus is not connected
+[ 354.381802] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[ 354.382597] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.382993] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.386784] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.391339] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.391750] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.399597] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.827513] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[ 354.829233] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.830554] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.840875] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.845971] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.846345] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 354.854498] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.463687] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[ 361.465165] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.466122] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.475944] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.478491] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[ 361.480264] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.480966] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.484502] Common.Filesystem <Error> common/fs/fs.cpp:IterateDirEntriesRecursively:515: Failed to visit all the directory entries of path=/home/eramoss/yuzu roms, ec_message=Success
+[ 361.486603] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.491505] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.491901] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[ 361.499789] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.643349] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[1028.644181] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.644618] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.649536] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.655224] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.655639] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1028.664521] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.560768] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[1040.562541] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.563967] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.578790] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.589688] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.591007] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[1040.609670] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.720747] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[6829.721530] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.721994] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.725676] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.730330] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.730706] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6829.738567] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.137355] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[6830.138249] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.138768] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.143615] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.148322] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.148696] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6830.158643] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.014257] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[6839.015871] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.017258] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.025707] Frontend <Info> yuzu/game_list.cpp:RefreshGameDirectory:839: Change detected in the games directory. Reloading game list.
+[6839.027168] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [01008DB008C2C800][v458752](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.027436] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Crown Tundra][01008DB008C2D002][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.028837] Loader <Warning> core/loader/loader.cpp:GetLoader:256: File Pokemon Shield [The Isle of Armor][01008DB008C2D001][US][v0](nsw2u).nsp has a different type (unknown) than its extension.
+[6839.038029] Common.Filesystem <Error> common/fs/fs.cpp:IterateDirEntriesRecursively:515: Failed to visit all the directory entries of path=/home/eramoss/yuzu roms, ec_message=Success

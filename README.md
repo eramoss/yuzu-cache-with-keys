@@ -1,6 +1,6 @@
 
 
-<img src="https://www.flaticon.com/free-icons/nintendo-switch" min-width="10px" max-width="300px" width="300" align="right" alt="logo ignite">
+<img src="https://cdn-icons-png.flaticon.com/512/2331/2331347.png" min-width="10px" max-width="300px" width="300" align="right" >
 
 # yuzu-cache-with-keys
 
